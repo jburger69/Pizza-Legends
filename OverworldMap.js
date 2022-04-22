@@ -16,7 +16,6 @@ class OverworldMap {
     drawUpperImage(ctx) {
         ctx.drawImage(this.upperImage, 0, 0)
     }
-
 }
 
 window.OverworldMaps = {
